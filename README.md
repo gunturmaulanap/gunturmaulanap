@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgunturmaulanap&s=21&c=0ea5e9&bg=00000000&no=2&ff=digi&tb=⚓+Nakama+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgunturmaulanap&s=21&c=0ea5e9&bg=00000000&no=2&ff=digi&tb=Nakama+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a++Software+Engineer;I'm+also+a+Freelancer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=font=Fira+Code&color=0ea5e9&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a++Software+Engineer;I'm+also+a+Freelancer;Be+welcome!" alt="Typing SVG"/>
 
 </div>
 
