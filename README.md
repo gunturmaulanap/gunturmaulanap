@@ -27,7 +27,8 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0ea5e9&width=900&size=21&center=true&lines=🏴‍☠️+Software+Engineer+from+Indonesia;🗺️+Adventure+Seeker+in+Code;🍖+Nakama+%26+Coding+Enthusiast;⚔️+Building+Digital+Treasures!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a++Software+Engineer;I'm+also+a+Freelancer;Be+welcome!" alt="Typing SVG"/>
+
 </div>
 
 <br>
@@ -40,9 +41,9 @@
     </summary>
     <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9xdjY1YjJvNnpkc3k2bjVpb2I0NW54YnFmOHpocHRjOXQ3Nm1hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uvCxJCIdf1BcY/giphy.gif" width="300" style="border-radius: 15px; margin-bottom: 30px;">
-</div>
+</div> -->
 <div align="center">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunturmaulanap&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunturmaulanap&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunturmaulanap&theme=nord_dark&utcOffset=8) |
