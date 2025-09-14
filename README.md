@@ -89,6 +89,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/6281392854911)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gunturmaulanap/)
 [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@jigeumtur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://gunturmaulana.xyz/)
 
 </div>
 
